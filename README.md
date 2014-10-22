@@ -1,0 +1,1 @@
+转自： http://blog.fens.me/nodejs-npm-package/
